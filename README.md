@@ -13,14 +13,14 @@ There are two types of client-server system created :
 
 To run any of the above two client-server programs follow these steps:
 
-1) Open two separate terminal windows. One will be used to run the server, and the other will run the client.
-2) Using the cd command, navigate to the directory where your server.py and client.py files are located.
-3)Run the server: In one terminal window, run the server program by executing the following command:
-  python server.py            
-The server will start running and will be ready to accept client connections.
-4) Run the client: In the second terminal window, run the client program by executing the following command:
-  python client.py 
-Your client program will connect to the server, and you can start sending requests to perform math operations.
-
-if you are using Python 3, you should use python3 instead of Python in the commands above.
+1) Open two separate terminal windows. One will be used to run the server, and the other will run the client.<br>
+2) Using the cd command, navigate to the directory where your server.py and client.py files are located.<br>
+3)Run the server: In one terminal window, run the server program by executing the following command: <br>
+  python server.py            <br>
+The server will start running and will be ready to accept client connections.<br>
+4) Run the client: In the second terminal window, run the client program by executing the following command:<br>
+  python client.py <br>
+Your client program will connect to the server, and you can start sending requests to perform math operations.<br>
+<br>
+If you are using Python 3, you should use python3 instead of Python in the commands above. <br>
 Example python3 server.py
