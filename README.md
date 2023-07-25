@@ -23,4 +23,6 @@ The server will start running and will be ready to accept client connections.<br
 Your client program will connect to the server, and you can start sending requests to perform math operations.<br>
 <br>
 If you are using Python 3, you should use python3 instead of Python in the commands above. <br>
-Example python3 server.py
+Example python3 server.py <br>
+
+To run the client-server program on Vs code terminal go throught the following Readme <a href="https://github.com/Rahul28428/Math-Server/blob/main/VsCode_Readme.pdf">VsCode_Readme</a>
